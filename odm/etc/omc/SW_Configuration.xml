@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-J737S</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>SKC</MultiCode>
+    <CustomerDataSet>
+        <CSCName>J737SSKC</CSCName>
+        <CSCVersion>6CUH1</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/SKC/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>SKC</CustomerCode>
+            <Version>SAOMC_SM-J737S_SKC_SKC_QQ_0007</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

@@ -1,0 +1,4 @@
+com.claroColombia.contenedor
+com.gameloft.android.gdc
+com.samsung.qosindicator
+com.samsung.unifiedtp
